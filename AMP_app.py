@@ -4,7 +4,6 @@ import numpy as np
 import pandas as pd
 import tensorflow as tf
 from tensorflow import keras
-import seaborn as sns
 from modlamp.plot import helical_wheel
 from sklearn.manifold import TSNE
 import plotly.express as px
